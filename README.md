@@ -5,6 +5,6 @@ Link del video https://www.youtube.com/watch?v=M35noM-_4rs
 
 Uso de MaterialDesign de NutGet
 
-![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueogLeguends/master/Screen/Screen1.png)
-![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueogLeguends/master/Screen/Screen2.png)
-![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueogLeguends/master/Screen/Screen3.png)
+![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueofLeguends/master/Screen/Screen1.png)
+![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueofLeguends/master/Screen/Screen2.png)
+![ScreenShot](https://raw.github.com/Gamas-G/UI_WPF_LeagueofLeguends/master/Screen/Screen3.png)
